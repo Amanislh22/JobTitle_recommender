@@ -1,0 +1,28 @@
+{
+    "user_profile": [
+      {
+        "id": 1,
+        "name": "Alice",
+        "skills": ["Python", "Machine Learning"],
+        "academics": "Bachelor's in Computer Science",
+        "interests": ["AI"],
+        "min_salary" :120000,
+        "experience":2,
+        "certifications" :"Certified Data Scientist",
+        "languages" :"English"
+      },
+      {
+        "id": 2,
+        "name": "Bob",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "academics": "Diploma in Web Development",
+        "interests": ["Frontend Development", "UI/UX"],
+        "min_salary" :120000,
+        "experience" :2,
+        "certifications" :"Certified Data Scientist",
+        "languages" :"English"
+      }
+    ]
+    
+  }
+  

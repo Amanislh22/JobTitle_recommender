@@ -1,0 +1,4 @@
+id,title,skills,salary,required_education,experience,interests,certifications,languages
+101,Data Scientist,"Python,Machine Learning",120000,"Bachelor's in Computer Science",2,"AI","Certified Data Scientist","English, Spanish",
+102,Frontend Developer,"HTML,CSS,JavaScript",90000,"Bachelor's in Web Development",1,"Frontend Development","Certified Frontend Developer","English",
+103,Backend Developer,"Python,Django,SQL",100000,"Bachelor's in Computer Science",3,"UI/UX","Certified Backend Developer","English, French",
